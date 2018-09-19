@@ -1,0 +1,14 @@
+.App{
+    text-align: center;
+
+}
+body{
+    background-image:url(https://wallpapercave.com/wp/uF04iIJ.jpg);
+    color: #fff;
+    margin: 10%;
+}
+
+.App-title {
+    font-size: 26px;
+    background: rgb(25, 116, 119);
+}
